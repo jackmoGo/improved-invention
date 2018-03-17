@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: 7f86da8e4db4da044a4bb92f2d53afcc
+timeCreated: 1521306526
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Vipnagorgialla
+  fontNames:
+  - Vipnagorgialla
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 738b4a44034ea9c43b1fe5d5d065f239, type: 3}
+  - {fileID: 12800000, guid: 30890fc456402c047923d1469feaff55, type: 3}
+  - {fileID: 12800000, guid: 069619258252b7a47a968cfd779229f8, type: 3}
+  - {fileID: 12800000, guid: 294964f7c39b8d6429a31635d967cb85, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
